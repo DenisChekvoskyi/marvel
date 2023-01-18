@@ -9,7 +9,7 @@ const Spinner = () => {
       style={{
         display: "flex",
         justifyContent: "center",
-        alignItems: "centere",
+        alignItems: "center",
       }}
     />
   );
